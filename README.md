@@ -1,4 +1,4 @@
-# 💫 About Me:
+#       I'm Mohammed Nadeem Sufiyan <br> Aspiring DevOps Engineer
 . 🔭 I’m currently working on building hands-on DevOps projects using AWS, Linux, Git, Docker, and CI/CD pipelines.<br>. 🤝 I’m looking to collaborate on beginner-friendly DevOps projects, cloud automation tasks, and open-source repositories.<br>. 🆘 I’m looking for help with Advanced AWS services, Kubernetes, Terraform, and real-world DevOps best practices.<br>. 🌱 I’m currently learning AWS, Docker, Kubernetes, GitHub Actions/Jenkins, Linux, and basic Terraform.<br>. 💬 Ask me about Linux commands, Git & GitHub, CI/CD basics, AWS EC2/S3, and Docker fundamentals.<br>. ⚡ Fun fact I enjoy automating tasks and breaking things just to learn how to fix them 😄
 
 
